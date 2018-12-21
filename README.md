@@ -1,1 +1,1 @@
-TensorFlow Udacity traininTensorFlow Udacity training
+TensorFlow Udacity training
